@@ -23,6 +23,11 @@ With the rise of misinformation on the internet, TruthSage aims to help users id
 
 ---
 
-## Project Structure
+## Group 10
+
+-- Bulou Vitukawalu - S11210019
+-- Ranjan Naidu     - S11201181
+-- Salote Katia     - S11196202
+-- Samuela Robin    - S11199961
 
 
