@@ -16,10 +16,10 @@ With the rise of misinformation on the internet, TruthSage aims to help users id
 
 ## Features
 
-- 🔍 Detects fake vs. real news using AI
-- 📊 NLP-based text preprocessing and feature extraction
-- 🧠 Model training using classification algorithms (Logistic Regression, Naive Bayes, etc.)
-- 📁 Modular and extendable codebase for future improvements
+-  Detects fake vs. real news using AI
+-  NLP-based text preprocessing and feature extraction
+-  Model training using classification algorithms (Logistic Regression, Naive Bayes, etc.)
+-  Modular and extendable codebase for future improvements
 
 ---
 
